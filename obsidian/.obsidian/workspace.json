@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "b8dad25e233f09f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f685af05cb1f2ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24da3d93e644a55a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "4a34dfec75a77ca2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec093c15fe072f5a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91201c83714608e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "79af66f2ce949d5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e55a21be0bfd9b54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "558d4b786f0ac313",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "461f18b0c0df38cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302
+  },
+  "right": {
+    "id": "a4cd9bf10ec04688",
+    "type": "split",
+    "children": [
+      {
+        "id": "2824dad912bde8f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28da437ed480da06",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "612dac5a6da53890",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c70158ced9e6db8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3eb6dedc3a172018",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f762b356eb5dc011",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f762b356eb5dc011",
+  "lastOpenFiles": [
+    "Welcome.md"
+  ]
+}
