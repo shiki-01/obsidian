@@ -4,29 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2f685af05cb1f2ce",
+        "id": "74a0d10b542eb778",
         "type": "tabs",
         "children": [
           {
-            "id": "24da3d93e644a55a",
+            "id": "ab28187b70188ffb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "4a34dfec75a77ca2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ec093c15fe072f5a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Geography/2 学期中間.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -43,16 +33,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e55a21be0bfd9b54",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "558d4b786f0ac313",
             "type": "leaf",
             "state": {
@@ -68,14 +48,17 @@
             }
           },
           {
-            "id": "461f18b0c0df38cd",
+            "id": "347711f6740bd728",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
-              "state": {}
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Geography/2 学期中間.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Geography/2 学期中間.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Geography/2 学期中間.md"
+              }
             }
           },
           {
@@ -161,8 +148,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f762b356eb5dc011",
+  "active": "ab28187b70188ffb",
   "lastOpenFiles": [
+    "Geography/chizu.png",
+    "Geography/2 学期中間.md",
+    "chizu.kra",
+    "Pasted image 20241015005802.png",
+    "Geography/chizu.kra",
+    "Pasted image 20241015005810.png",
+    "無題のファイル.canvas",
+    "Pasted image 20241015005616.jpg",
+    "Pasted image 20241015005647.png",
+    "Geography/ケッペンの気候区分.canvas",
+    "Geography/2024-10-14.md",
+    "Untitled Diagram.svg",
+    "Geography/Untitled Diagram.svg",
+    "無題のファイル.md",
+    "無題のファイル 1.md",
+    "Geography/Untitled Diagram 1.svg",
+    "Geography",
     "Welcome.md"
   ]
 }
