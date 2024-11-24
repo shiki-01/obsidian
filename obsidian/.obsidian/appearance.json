@@ -4,5 +4,8 @@
   "cssTheme": "Blue Topaz",
   "interfaceFontFamily": "IPAexゴシック",
   "textFontFamily": "IPAexゴシック",
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "snippet"
+  ]
 }

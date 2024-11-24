@@ -1,0 +1,8 @@
+.tree-item-inner {
+    font-family: var(--font-interface-override);
+    font-weight: 600;
+}
+
+.tree-item-inner:hover {
+    font-weight: 400;
+}
